@@ -8,7 +8,6 @@ from src.langgraphagenticai.nodes.basic_chatbot_node import BasicChatbotNode
 
 
 
-
 class GraphBuilder:
 
     def __init__(self,model):
